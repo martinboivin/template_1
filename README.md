@@ -1,5 +1,5 @@
-Example d'exercice - cours d'introduction à la programmation
-============================================================
+Example d'exercices - Cours d'introduction à la programmation
+=============================================================
 
 Ceci est un notebook Jupyter contenant les exemples discutés en classe.
 
