@@ -1,9 +1,9 @@
-Example Jupyter Python Notebooks
-================================
+Example d'exercice - cours d'introduction à la programmation
+============================================================
 
-This includes a few Jupyter Python Notebooks I use as examples in my teaching.
+Ceci est un notebook Jupyter contenant les exemples discutés en classe.
 
-## Hosted Quickstart
+## Démarrage du notebook
 
 For quickly testing this out, I recommend launching this repo directly in Binder. Click this button to build and launch
 a Jupyter Lab environment fully set up and ready to use!🎉👍🏽
